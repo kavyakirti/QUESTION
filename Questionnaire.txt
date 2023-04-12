@@ -1,0 +1,104 @@
+     Let's Get Started, Coder!!
+Fill the following Document
+__________________________________________________________________________
+
+1. Which one of the following is an Imperative Language?
+
+1. HTML
+2. CSS
+3. Java Script
+
+Answer:  Java Script	
+
+
+2. Which one of the following is a Declarative Language?
+
+1. HTML
+2. CSS
+3. Java Script
+
+Answer:  HTML
+
+
+3. Name two uses of a DIV tag?
+
+Answer: 1. It defines the division or section in a document 
+2. it is used as a container for HTML element 
+
+
+
+
+
+
+
+
+4. What is the difference between relative positioning and absolute positioning in HTML?
+
+Answer:   Relative Positioning -  setting the top , right , bottom and left property of an element. It will adjust from its normal position .
+Syntax: position : relative;
+
+Absolute positioning – an element with absolute positioning will cause it to adjust its position with respect to its parent 
+Syntax: position : absolute;
+
+
+
+
+
+5. What is the use of opacity in CSS?
+
+Answer: to specify the transparency of an element 
+
+
+
+
+
+6. Which is the programming language used in the React Native Framework?
+
+Answer:  JSX , javascript XML
+
+
+
+7. Which online editor are we using for creating our apps in React Native Framework?
+
+Answer: Snack
+
+
+
+
+
+8. Write the steps to test your first designed app in the online editor on mobile.
+
+Answer:
+1. Click on my device 
+2. Scan the QR code from mobile with Expo go
+3. Test the output
+
+
+
+
+
+
+9. What is the use of the render function in React Native Framework?
+
+Answer:  it helps us to render the content in the screen.
+
+
+
+
+
+
+10. What is the use of the return function in the React Native Framework?
+
+Answer: it is used to return the content to be rendered 
+
+
+
+
+
+
+11. What are the various components in your first app that you designed?
+
+Answer:  Button , view , text 
+
+
+
